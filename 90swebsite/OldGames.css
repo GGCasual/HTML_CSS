@@ -1,0 +1,13 @@
+body{
+    background-color: greenyellow
+}
+
+a{
+    color: blueviolet;
+    font-size: 40px;
+}
+
+.count{
+    max-width: 500;
+    margin: auto;
+}
